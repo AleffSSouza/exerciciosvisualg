@@ -1,5 +1,5 @@
 Algoritmo "idade"
-// Descrição   : solicitar altura e idade e informar se pode competir ou nao
+// DescriÃ§Ã£o   : solicitar altura e idade e informar se pode competir ou nao
 // Autor(a)    : Aleff Souza
 // Data atual  : 09/06/2020
 Var
@@ -9,10 +9,10 @@ resp:caracter
 
 Inicio
 //entrada
-escreval("esta começado")
+escreval("esta comeÃ§ado")
 escreval("qual a sua idade: ")
 leia(idade)
-escreval("possui habilitação : ")
+escreval("possui habilitaÃ§Ã£o : ")
 leia(resp)
 
 se ((idade>=18) e( resp= "sim"))entao

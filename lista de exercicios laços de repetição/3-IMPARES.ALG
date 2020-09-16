@@ -1,9 +1,9 @@
 Algoritmo "numerosimpares"
-// Descrição   : mostrar numeros impares
+// DescriÃ§Ã£o   : mostrar numeros impares
 // Autor(a)    : Aleff Souza
 // Data atual  : 02/09/2020
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 cont:inteiro
 
 Inicio

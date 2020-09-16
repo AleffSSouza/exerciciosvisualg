@@ -1,8 +1,8 @@
 algoritmo "usuariosenha"
-// FunÁ„o :  mostraro usu·rio tÍm seu usu·rio e a senha correto
+// Fun√ß√£o :  mostraro usu√°rio t√™m seu usu√°rio e a senha correto
 // Autor : Aleff Souza
 // Data : 02/09/2020
-// SeÁ„o de DeclaraÁıes
+// Se√ß√£o de Declara√ß√µes
 var
 pessoa, senha, cont: INTEIRO
 
@@ -10,7 +10,7 @@ pessoa, senha, cont: INTEIRO
 inicio
 //Entrada
 cont<-1
-escreval("Digite o seu usu·rio: ")
+escreval("Digite o seu usu√°rio: ")
 leia(pessoa)
 escreval("Digite a sua senha: ")
 leia(senha)
@@ -18,22 +18,19 @@ leia(senha)
 //Processamento
 enquanto ((pessoa<>12) ou (pessoa<>12))faca
   escreval("****************************************************")
-  escreval("USU¡RIO OU SENHA INV¡LIDOS TENTE NOVAMENTE")
+  escreval("USU√ÅRIO OU SENHA INV√ÅLIDOS TENTE NOVAMENTE")
   escreval("**********************************************")
-  escreval("Digite o seu usu·rio: ")
+  escreval("Digite o seu usu√°rio: ")
    leia(pessoar)
   escreval("Digite a sua senha: ")
    leia(senha)
   cont<- cont+1
   se(cont=3)entao
-   escreval("Seu cart„o foi CANCELADO, vocÍ errou as 3x permitida")
+   escreval("Seu cart√£o foi CANCELADO, voc√™ errou as 3x permitida")
    interrompa
   fimse
 fimenquanto
   se((pessoa=12) e (senha=12))entao
-  escreval("********************************************************")
-  escreval("Bem Vindo ao Banco ETEC maria crista medeiros")
-  escreval("********************************************************")
   fimse
 
 fimalgoritmo

@@ -1,5 +1,5 @@
 Algoritmo "mostrarsequencia"
-// Descrição   : usuario digita dois numeros e o programa mostra a sequencia
+// DescriÃ§Ã£o   : usuario digita dois numeros e o programa mostra a sequencia
 // Autor(a)    : Aleff Souza
 // Data atual  : 02/09/2020
 Var

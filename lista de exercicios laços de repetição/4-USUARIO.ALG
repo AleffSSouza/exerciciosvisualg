@@ -21,7 +21,7 @@ enquanto ((pessoa<>12) ou (pessoa<>12))faca
   escreval("USUÁRIO OU SENHA INVÁLIDOS TENTE NOVAMENTE")
   escreval("**********************************************")
   escreval("Digite o seu usuário: ")
-   leia(pessoar)
+   leia(pessoa)
   escreval("Digite a sua senha: ")
    leia(senha)
   cont<- cont+1
